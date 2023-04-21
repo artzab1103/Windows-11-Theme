@@ -1,2 +1,2 @@
-# Windows-11-Theme
+# =Windows 11 Theme=
 A Windows 11 theme!
