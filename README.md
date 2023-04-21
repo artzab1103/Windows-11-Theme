@@ -4,7 +4,7 @@ A Windows 11 theme for Rockezzergon!
 # Download
 
 ### ㅤ 
-[RAW link](https://raw.githubusercontent.com/artzab1103/Windows-11-Theme/main/windows.theme.css?token=GHSAT0AAAAAACBUBSRT6NUNHP44YMIPIHX4ZCCN5AA)
+[RAW link](https://raw.githubusercontent.com/artzab1103/Windows-11-Theme/main/windows.theme.css)
 
 ### ㅤ
 [CSS link](https://github.com/artzab1103/Windows-11-Theme/releases)
