@@ -12,7 +12,7 @@ A Windows 11 theme for Rockezzergon!
 # ✅Changelog⚠️
 
 ### 0.1
-- ✅First version
+- ✅First release
 
 ### b0.1
 - ✅A beta of 0.1 version
